@@ -1,4 +1,4 @@
-package ir.hoseinsa.composeexamplemediastack.utils
+package ir.hoseinsa.composeexamplemediastack.data.utils
 
 import android.util.Log
 import io.ktor.client.HttpClient
